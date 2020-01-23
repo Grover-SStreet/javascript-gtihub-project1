@@ -1,2 +1,2 @@
-# javascript-gtihub-project1
+# javascript-github-project1
 Javascript refresher
